@@ -1,0 +1,15 @@
+# System and IDE files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.iml
+
+# Build and dependency folders (from all subprojects)
+**/build/
+**/.dart_tool/
+**/node_modules/
+**/.firebase/
+
+# Environment files
+**/.env
