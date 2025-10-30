@@ -56,7 +56,7 @@ Chatify/
 
 ### 🖥️ 1. Clone the Repository
 
-git clone https://github.com/mushrifa-hussain/chatify.git
+git clone https://github.com/mushrifa-hussain/chatify-app.git
 cd "CHATIFY - MEASSAGING APP"
 
 ### 📱 2. Setup Flutter Frontend
