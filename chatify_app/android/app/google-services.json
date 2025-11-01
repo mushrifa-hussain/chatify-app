@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "257420391453",
+    "project_id": "chatify-8e98b",
+    "storage_bucket": "chatify-8e98b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257420391453:android:fcba6369fb6799a6fb82f4",
+        "android_client_info": {
+          "package_name": "com.example.chatifyapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVHm1rPpVckZrdTyunqTdDCnhTRut3p1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257420391453:android:c22f3218cfd93bd7fb82f4",
+        "android_client_info": {
+          "package_name": "com.seloo.kdm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVHm1rPpVckZrdTyunqTdDCnhTRut3p1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
